@@ -1,5 +1,5 @@
-#Thunder Grabber Was Made BY TWISTX7#9122
-#https://github.com/TWIST-X7/Thunder-Grabber
+# Thunder Grabber Was Made By remind (tana)#5831
+# https://github.com/glosifyed/ThunderInjection
 import requests
 import os
 import sys
